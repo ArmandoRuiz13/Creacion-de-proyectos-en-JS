@@ -1,3 +1,3 @@
-const Ajolonauta = require('./app/Ajolonauta')
-const woopa = new Ajolonauta("Woopa")
-console.log(woopa.name)
+const MissionCommander = require('./app/missionCommander')
+const Armando = new MissionCommander("Armando")
+console.log(Armando.name)
